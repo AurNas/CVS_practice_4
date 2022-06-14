@@ -1,4 +1,7 @@
-main()
+#include <stdio.h>
+int main(int argc, char * argv[])
 {
-	printf("QQ, world\n");
+printf(“Hello, world\n”);
+return 0;
 }
+
